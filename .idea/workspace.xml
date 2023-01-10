@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="288498ac-00cb-4f98-b780-51662dc30287" name="Changes" comment="inicio do projeto Udemy" />
+    <list default="true" id="288498ac-00cb-4f98-b780-51662dc30287" name="Changes" comment="inicio do projeto Udemy">
+      <change afterPath="$PROJECT_DIR$/src/Fundamentos/operadores/DesafioAreaTriangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +42,20 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DesafioImc">
+  <component name="RunManager" selected="Application.DesafioAreaTriangulo">
+    <configuration name="DesafioAreaTriangulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentos.operadores.DesafioAreaTriangulo" />
+      <module name="exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Fundamentos.operadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DesafioCalculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fundamentos.DesafioCalculadora" />
       <module name="exercicios" />
@@ -92,26 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fundamentos.operadores.Unarios" />
-      <module name="exercicios" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Fundamentos.operadores.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DesafioAreaTriangulo" />
         <item itemvalue="Application.DesafioImc" />
         <item itemvalue="Application.DesafioCalculadora" />
         <item itemvalue="Application.TipoStringEquals" />
         <item itemvalue="Application.Ternario" />
-        <item itemvalue="Application.Unarios" />
       </list>
     </recent_temporary>
   </component>
@@ -124,6 +127,14 @@
       <option name="presentableId" value="Default" />
       <updated>1672777321990</updated>
     </task>
+    <task id="LOCAL-00001" summary="inicio do projeto Udemy">
+      <created>1673380844742</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673380844742</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +148,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="inicio do projeto Udemy" />
+    <option name="LAST_COMMIT_MESSAGE" value="inicio do projeto Udemy" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -149,6 +164,11 @@
           <url>file://$PROJECT_DIR$/src/Fundamentos/operadores/DesafioAritmeticos.java</url>
           <line>13</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Fundamentos/operadores/DesafioAreaTriangulo.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
