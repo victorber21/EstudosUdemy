@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="288498ac-00cb-4f98-b780-51662dc30287" name="Changes" comment="Novas classes e desafios.">
-      <change afterPath="$PROJECT_DIR$/src/Controle/DesafioWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controle/DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controle/For2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controle/For3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controle/WhileDeterminado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controle/WhileInderteminado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controle/for1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controle/Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controle/BreakRotulado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controle/Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controle/ControleRotulado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controle/DesafioAnoBissexto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controle/DesafioFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controle/DesafioNumeroPar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controle/SwitchComBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controle/SwitchSemBreak.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,9 +63,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.For3">
-    <configuration name="DesafioWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Controle.DesafioWhile" />
+  <component name="RunManager" selected="Application.DesafioNumeroPar">
+    <configuration name="DesafioFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Controle.DesafioFor" />
       <module name="exercicios" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +77,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Controle.DoWhile" />
+    <configuration name="DesafioNumeroPar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Controle.DesafioNumeroPar" />
+      <module name="exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Controle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesafioWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Controle.DesafioWhile" />
       <module name="exercicios" />
       <extension name="coverage">
         <pattern>
@@ -114,26 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileInderteminado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Controle.WhileInderteminado" />
-      <module name="exercicios" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Controle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DesafioNumeroPar" />
+        <item itemvalue="Application.DesafioFor" />
         <item itemvalue="Application.For3" />
         <item itemvalue="Application.For2" />
         <item itemvalue="Application.DesafioWhile" />
-        <item itemvalue="Application.DoWhile" />
-        <item itemvalue="Application.WhileInderteminado" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673466394175</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Novas classes e desafios.">
+      <created>1673527498875</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673527498875</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
